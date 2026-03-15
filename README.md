@@ -30,6 +30,6 @@ npm run dev
 npm run build
 ```
 
-## Deploy
+## Demo
 
-Deploy directly to Vercel or Netlify after pushing to GitHub.
+https://country-explorer-vue.vercel.app/
